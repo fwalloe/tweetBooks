@@ -3,4 +3,4 @@ A python scripts that let users download a plain text, parse that text so that i
 
 Get started with: *tweetBooks.py -h*
 
-For the automagic publication of tweets to work you'll need to create a Buffer account and fill hard-code the credentials in *publishToTwitter.py*. 
+For the automagic publication of tweets to work you'll need to create a Buffer account and hard-code the credentials in *publishToTwitter.py*. 
